@@ -5,7 +5,7 @@ class HelloWorld extends React.Component {
   render() {
     return (
       <div>
-        <h1>Hello World everyone!!</h1>
+        <h2>Hello World everyone!!</h2>
       </div>
     )
   }

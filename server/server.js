@@ -18,5 +18,5 @@ app.listen(port, function onStart(err) {
     console.log(err)
   }
 
-  console.info('Server started on port %s', port)
+  console.info('Server started and listening on port %s', port)
 })
